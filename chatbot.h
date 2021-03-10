@@ -111,7 +111,7 @@ class Chatbot
         {
 
             
-            else if(find(answer.begin(), answer.end(), "Hello") != answer.end() )
+            if(find(answer.begin(), answer.end(), "Hello") != answer.end() )
             {
                 response = greeting[rand() % 3];
                 
