@@ -2,7 +2,7 @@
 
 This was a simple chatbot made using C++ for an assignment. The requirement was to implement a bot that answered a user based on keywords.
 
-In terms of Chatbot functionality, the chatbot is responsible for making tv show recommendations as well as giving reasons as to why anime is worth watching. Furthermore, it answers the most basic questions about the given tv shows like where to watch it, what series to watch, and what the tv show as a whole is. On the other hand, if you are adverse to certain tv shows, it will give you reasons to watch it.
+In terms of Chatbot functionality, the chatbot is responsible for making tv show recommendations as well as giving reasons as to why tv shows are worth watching. Furthermore, it answers the most basic questions about the given tv shows like where to watch it, what series to watch, and what the tv show as a whole is. On the other hand, if you are adverse to certain tv shows, it will give you reasons to watch it.
 
 A recommendation kills no one so why not? 
 
